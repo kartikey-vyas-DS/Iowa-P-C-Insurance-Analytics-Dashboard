@@ -1,6 +1,6 @@
 # Iowa P&C Insurance Analytics Dashboard
 
-A Power BI dashboard analyzing Iowa's Property & Casualty Insurance market data from 2019-2023. The dashboard visualizes key metrics including premiums written, losses paid, and market distribution across different insurance lines and companies.
+A Power BI dashboard analyzing Iowa's Property & Casualty Insurance market data on Year 2019. The dashboard visualizes key metrics including premiums written, losses paid, and market distribution across different insurance lines and companies.
 
 ![Dashboard Preview](./IOWA.gif)
 
